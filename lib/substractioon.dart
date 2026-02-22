@@ -54,7 +54,7 @@ class _substractionState extends State<substraction> {
 
         Container(
           height: 40,
-          width: 100,
+          width: 120,
           decoration: BoxDecoration(
             borderRadius: BorderRadius.circular(20),
             border: Border.all(color: Colors.red),

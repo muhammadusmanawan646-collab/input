@@ -70,7 +70,7 @@ class _modState extends State<mod> {
           },
             child: Text('Mode'),),
         ),
-        Text('Result$mod'),
+        Text('Result=$mod'),
 
 
       ],),
